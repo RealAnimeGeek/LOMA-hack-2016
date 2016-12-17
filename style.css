@@ -1,0 +1,47 @@
+body{background: url("images/Baymax_Render.png");
+    background-size: 100%;
+    background-position: center -90px;
+    background-repeat: no-repeat;
+}
+.pic{
+    width:100px;
+}
+#smiling{
+    width:115px;
+}
+#sad{
+    width:105px;
+   }
+#love{
+    width:105px;
+}
+div{
+    border:2px solid #55b589s;
+    background-color:#53d19c;
+    text-align: center;
+    width:40%;
+    margin:0 auto;
+    border-radius:25px;
+}
+.gif{
+    display:none;
+
+}
+h1{
+    text-align: center;
+    margin-top:10%;
+    font-family: 'Mirza',serif;
+    font-size: 90px;    
+}
+p{
+    text-align: center;
+    font-family: 'Mirza',serif;
+    font-size: 30px;
+    
+}
+
+
+img{
+    max-width:100%;
+}
+
